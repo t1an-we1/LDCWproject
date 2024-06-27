@@ -1,0 +1,115 @@
+commit 7c16ecbfb17272b0d3b0c1ea8b69bef0c36b7c07
+Merge: 2ae9818 2c4cbfd
+Author: D4rrick <Dc040827@>
+Date:   Thu Jun 27 12:35:58 2024 +0800
+
+    Merge branch 'master' of https://github.com/t1an-we1/LDCWproject
+
+commit 2ae98187eae763c277436ef79a7d4b47d460b41a
+Merge: 9704f82 be67f85
+Author: D4rrick <Dc040827@>
+Date:   Thu Jun 27 12:35:06 2024 +0800
+
+    writing something into README.md
+
+commit 2c4cbfd74d52eb84e6be5e8a9e94884643140ee9
+Merge: 9704f82 be67f85
+Author: Tian Wei <1231303630@student.mmu.edu.my>
+Date:   Thu Jun 27 12:27:51 2024 +0800
+
+    Merge pull request #2 from t1an-we1/branch2
+    
+    adding link to figma for mobile app prototype
+
+commit be67f85cb48d37b24727ce3f742dd5965264c3bd
+Author: D4rrick <Dc040827@>
+Date:   Thu Jun 27 12:25:00 2024 +0800
+
+    adding link to figma for mobile app prototype
+
+commit 9704f82fad21ac0568a9fb8493fd599c9cddd48c
+Author: Tang110-cmd <tangweijie2002@gmail.com>
+Date:   Thu Jun 27 11:00:17 2024 +0800
+
+    Update README.md
+
+commit e503fc58f0914c522380d48b028f10819b977bcb
+Author: Tang110-cmd <tangweijie2002@gmail.com>
+Date:   Thu Jun 27 11:00:03 2024 +0800
+
+    Update README.md
+
+commit 9679244d4eb4bfcbb17fbe457dbd07e21c854e75
+Merge: 6345460 bd43318
+Author: Tian Wei <1231303630@student.mmu.edu.my>
+Date:   Wed Jun 26 21:24:12 2024 +0800
+
+    Merge pull request #1 from t1an-we1-backup/master
+    
+    Update README.md
+
+commit bd4331895029aada9b71eb913fd25ab33374039b
+Author: t1an-we1-backup <chongtianwei0329@gmail.com>
+Date:   Wed Jun 26 21:20:17 2024 +0800
+
+    Update README.md
+
+commit 6345460197cc9ed3661bba2d33f7b3a5027f3174
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 14:41:23 2024 +0800
+
+    adding link to the published website
+
+commit 8a17005d9ef6c18e721ca6d50545a73e614f48a9
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:43:29 2024 +0800
+
+    creating folder for figma
+
+commit 914b95dd118795883cb1ac32f2d16c80f7c74e7d
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:40:50 2024 +0800
+
+    creating folder for wix.com
+
+commit cc25aa677c50ba0d182713354c372ee4c2454e33
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:39:32 2024 +0800
+
+    creating folder for user manual
+
+commit 18235a6eb2507b63d6e6831a8cfe04638c66082b
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:15:34 2024 +0800
+
+    short introduction of project
+
+commit 732bf74e8e3f5f9685397e3456454a14ca96e60d
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:12:06 2024 +0800
+
+    entering group member name and Student ID
+
+commit c0e78b648cb4c8ffe45e3e83a968918afa3e3ab5
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:10:08 2024 +0800
+
+    entering group members name and Student ID
+
+commit 8d19d6e8ceedcf83f2ef3ff0f691d570e929d774
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Tue Jun 18 13:07:19 2024 +0800
+
+    setting up a README.md
+
+commit 4f578d6249b910728cec58aa69e88262f850843b
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Fri Jun 7 10:42:50 2024 +0800
+
+    i wrote something new
+
+commit 2f205a0ca506100d100c7e042a2857d2434acd5f
+Author: t1an-we1 <1231303630@student.mmu.edu.my>
+Date:   Fri Jun 7 10:37:55 2024 +0800
+
+    first commit
